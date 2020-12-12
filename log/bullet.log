@@ -4032,3 +4032,478 @@ Call stack
   /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:43:in `block in _app_views_teams_show_html_erb__3766509912906894427_70211848788500'
   /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:40:in `_app_views_teams_show_html_erb__3766509912906894427_70211848788500'
 
+2020-12-12 19:54:44[WARN] user: kondokeiko
+GET /teams/5
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:43:in `block in _app_views_teams_show_html_erb__3628407018041611870_70095087937480'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:40:in `_app_views_teams_show_html_erb__3628407018041611870_70095087937480'
+
+2020-12-12 20:02:36[WARN] user: kondokeiko
+GET /teams/5
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:43:in `block in _app_views_teams_show_html_erb__272687425714802777_70208265267880'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:40:in `_app_views_teams_show_html_erb__272687425714802777_70208265267880'
+
+2020-12-12 20:02:43[WARN] user: kondokeiko
+GET /teams/555
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:43:in `block in _app_views_teams_show_html_erb__272687425714802777_70208258146420'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:40:in `_app_views_teams_show_html_erb__272687425714802777_70208258146420'
+
+2020-12-12 20:02:52[WARN] user: kondokeiko
+GET /teams/BasicTeam
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:43:in `block in _app_views_teams_show_html_erb__272687425714802777_70208351087720'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:40:in `_app_views_teams_show_html_erb__272687425714802777_70208351087720'
+
+2020-12-12 20:02:52[WARN] user: kondokeiko
+GET /teams/BasicTeam
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208323807560'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208323807560'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1411590073805881457_70208094731700'
+
+2020-12-12 20:04:55[WARN] user: kondokeiko
+GET /teams/555
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:46:in `block in _app_views_teams_show_html_erb__272687425714802777_70208324080300'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:43:in `_app_views_teams_show_html_erb__272687425714802777_70208324080300'
+
+2020-12-12 20:04:57[WARN] user: kondokeiko
+GET /teams/555
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:46:in `block in _app_views_teams_show_html_erb__272687425714802777_70208280075580'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:43:in `_app_views_teams_show_html_erb__272687425714802777_70208280075580'
+
+2020-12-12 20:05:04[WARN] user: kondokeiko
+GET /teams/BasicTeam
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:46:in `block in _app_views_teams_show_html_erb__272687425714802777_70208353011600'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:43:in `_app_views_teams_show_html_erb__272687425714802777_70208353011600'
+
+2020-12-12 20:05:04[WARN] user: kondokeiko
+GET /teams/BasicTeam
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208114996360'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208114996360'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1411590073805881457_70208353049820'
+
+2020-12-12 20:12:31[WARN] user: kondokeiko
+GET /teams/333
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:46:in `block in _app_views_teams_show_html_erb__272687425714802777_70208116338420'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:43:in `_app_views_teams_show_html_erb__272687425714802777_70208116338420'
+
+2020-12-12 20:15:51[WARN] user: kondokeiko
+GET /teams/BasicTeam
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:46:in `block in _app_views_teams_show_html_erb__272687425714802777_70208111015400'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:43:in `_app_views_teams_show_html_erb__272687425714802777_70208111015400'
+
+2020-12-12 20:15:51[WARN] user: kondokeiko
+GET /teams/BasicTeam
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208111356280'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208111356280'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1411590073805881457_70208111028980'
+
+2020-12-12 20:16:05[WARN] user: kondokeiko
+GET /teams/333
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:46:in `block in _app_views_teams_show_html_erb__272687425714802777_70208268408420'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:43:in `_app_views_teams_show_html_erb__272687425714802777_70208268408420'
+
+2020-12-12 20:16:18[WARN] user: kondokeiko
+GET /teams/3333
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:46:in `block in _app_views_teams_show_html_erb__272687425714802777_70208096932700'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:43:in `_app_views_teams_show_html_erb__272687425714802777_70208096932700'
+
+2020-12-12 20:17:37[WARN] user: kondokeiko
+GET /teams/555
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:46:in `block in _app_views_teams_show_html_erb__272687425714802777_70208116761780'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:43:in `_app_views_teams_show_html_erb__272687425714802777_70208116761780'
+
+2020-12-12 20:17:41[WARN] user: kondokeiko
+GET /teams/3333
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:46:in `block in _app_views_teams_show_html_erb__272687425714802777_70208342095880'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:43:in `_app_views_teams_show_html_erb__272687425714802777_70208342095880'
+
+2020-12-12 20:17:43[WARN] user: kondokeiko
+GET /teams/BasicTeam
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:46:in `block in _app_views_teams_show_html_erb__272687425714802777_70208343631000'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:43:in `_app_views_teams_show_html_erb__272687425714802777_70208343631000'
+
+2020-12-12 20:17:43[WARN] user: kondokeiko
+GET /teams/BasicTeam
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208271236960'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208271236960'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1411590073805881457_70208343683620'
+
+2020-12-12 20:17:53[WARN] user: kondokeiko
+GET /teams/BasicTeam/edit
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208279474060'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208279474060'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1411590073805881457_70208344637300'
+
+2020-12-12 20:18:41[WARN] user: kondokeiko
+GET /teams/BasicTeam/edit
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208110961980'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208110961980'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1411590073805881457_70208324027040'
+
+2020-12-12 20:20:22[WARN] user: kondokeiko
+GET /teams/BasicTeam/edit
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208112548280'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208112548280'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1411590073805881457_70208096572060'
+
+2020-12-12 20:20:25[WARN] user: kondokeiko
+PATCH /teams/BasicTeam
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208116374800'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208116374800'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1411590073805881457_70208116096460'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/controllers/teams_controller.rb:42:in `update'
+
+2020-12-12 20:20:30[WARN] user: kondokeiko
+PATCH /teams/BasicTeam
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208116914820'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208116914820'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1411590073805881457_70208258722720'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/controllers/teams_controller.rb:42:in `update'
+
+2020-12-12 20:21:00[WARN] user: kondokeiko
+PATCH /teams/BasicTeam
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208258083660'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208258083660'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1411590073805881457_70208342097380'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/controllers/teams_controller.rb:42:in `update'
+
+2020-12-12 20:21:03[WARN] user: kondokeiko
+PATCH /teams/BasicTeam
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208345128180'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208345128180'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1411590073805881457_70208094666400'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/controllers/teams_controller.rb:42:in `update'
+
+2020-12-12 20:22:51[WARN] user: kondokeiko
+GET /teams/BasicTeam
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:46:in `block in _app_views_teams_show_html_erb__272687425714802777_70208097312400'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:43:in `_app_views_teams_show_html_erb__272687425714802777_70208097312400'
+
+2020-12-12 20:22:51[WARN] user: kondokeiko
+GET /teams/BasicTeam
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208266534480'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208266534480'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1411590073805881457_70208119219560'
+
+2020-12-12 20:23:03[WARN] user: kondokeiko
+GET /teams/BasicTeam/edit
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208110880300'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208110880300'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1411590073805881457_70208279587540'
+
+2020-12-12 20:23:06[WARN] user: kondokeiko
+GET /teams/BasicTeam
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:46:in `block in _app_views_teams_show_html_erb__272687425714802777_70208280287280'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:43:in `_app_views_teams_show_html_erb__272687425714802777_70208280287280'
+
+2020-12-12 20:23:06[WARN] user: kondokeiko
+GET /teams/BasicTeam
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208096519740'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208096519740'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1411590073805881457_70208352811940'
+
+2020-12-12 20:32:56[WARN] user: kondokeiko
+GET /teams/BasicTeam
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:46:in `block in _app_views_teams_show_html_erb__272687425714802777_70208270888840'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:43:in `_app_views_teams_show_html_erb__272687425714802777_70208270888840'
+
+2020-12-12 20:32:56[WARN] user: kondokeiko
+GET /teams/BasicTeam
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208094843040'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208094843040'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1411590073805881457_70208270951220'
+
+2020-12-12 20:33:01[WARN] user: kondokeiko
+GET /teams/BasicTeam
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:46:in `block in _app_views_teams_show_html_erb__272687425714802777_70208095702240'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:43:in `_app_views_teams_show_html_erb__272687425714802777_70208095702240'
+
+2020-12-12 20:33:01[WARN] user: kondokeiko
+GET /teams/BasicTeam
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208352626660'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208352626660'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1411590073805881457_70208095715360'
+
+2020-12-12 20:40:06[WARN] user: kondokeiko
+GET /teams/BasicTeam
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:46:in `block in _app_views_teams_show_html_erb__272687425714802777_70208115424460'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:43:in `_app_views_teams_show_html_erb__272687425714802777_70208115424460'
+
+2020-12-12 20:40:06[WARN] user: kondokeiko
+GET /teams/BasicTeam
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208258671980'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208258671980'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1411590073805881457_70208115434980'
+
+2020-12-12 20:40:22[WARN] user: kondokeiko
+GET /user
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208321516020'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208321516020'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1411590073805881457_70208230012640'
+
+2020-12-12 20:40:26[WARN] user: kondokeiko
+GET /teams/BasicTeam
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:46:in `block in _app_views_teams_show_html_erb__272687425714802777_70208257858540'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:43:in `_app_views_teams_show_html_erb__272687425714802777_70208257858540'
+
+2020-12-12 20:40:26[WARN] user: kondokeiko
+GET /teams/BasicTeam
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208258298980'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208258298980'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1411590073805881457_70208266581040'
+
+2020-12-12 20:41:24[WARN] user: kondokeiko
+GET /teams/BasicTeam
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:46:in `block in _app_views_teams_show_html_erb__272687425714802777_70208342207920'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:43:in `_app_views_teams_show_html_erb__272687425714802777_70208342207920'
+
+2020-12-12 20:41:24[WARN] user: kondokeiko
+GET /teams/BasicTeam
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208270954900'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208270954900'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1411590073805881457_70208342423900'
+
+2020-12-12 20:41:35[WARN] user: kondokeiko
+GET /teams/3333
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:46:in `block in _app_views_teams_show_html_erb__272687425714802777_70208095283640'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:43:in `_app_views_teams_show_html_erb__272687425714802777_70208095283640'
+
+2020-12-12 20:41:39[WARN] user: kondokeiko
+GET /teams/3333
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:46:in `block in _app_views_teams_show_html_erb__272687425714802777_70208095703460'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:43:in `_app_views_teams_show_html_erb__272687425714802777_70208095703460'
+
+2020-12-12 20:42:44[WARN] user: kondokeiko
+GET /teams/3333
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:46:in `block in _app_views_teams_show_html_erb__272687425714802777_70208116996200'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:43:in `_app_views_teams_show_html_erb__272687425714802777_70208116996200'
+
+2020-12-12 20:42:49[WARN] user: kondokeiko
+GET /teams/3333
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:46:in `block in _app_views_teams_show_html_erb__272687425714802777_70208270524880'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:43:in `_app_views_teams_show_html_erb__272687425714802777_70208270524880'
+
+2020-12-12 20:43:02[WARN] user: kondokeiko
+GET /teams/555
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:46:in `block in _app_views_teams_show_html_erb__272687425714802777_70208345140760'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:43:in `_app_views_teams_show_html_erb__272687425714802777_70208345140760'
+
+2020-12-12 20:43:19[WARN] user: kondokeiko
+GET /teams/6
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:46:in `block in _app_views_teams_show_html_erb__272687425714802777_70208111737580'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:43:in `_app_views_teams_show_html_erb__272687425714802777_70208111737580'
+
+2020-12-12 20:43:32[WARN] user: kondokeiko
+GET /teams/BasicTeam
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:46:in `block in _app_views_teams_show_html_erb__272687425714802777_70208115292380'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:43:in `_app_views_teams_show_html_erb__272687425714802777_70208115292380'
+
+2020-12-12 20:43:32[WARN] user: kondokeiko
+GET /teams/BasicTeam
+USE eager loading detected
+  Agenda => [:articles]
+  Add to your query: .includes([:articles])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:41:in `block in _app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208115860360'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/shared/layout/_sidebar.html.erb:31:in `_app_views_shared_layout__sidebar_html_erb___1820115758405516495_70208115860360'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb__1411590073805881457_70208112463400'
+
+2020-12-12 20:43:41[WARN] user: kondokeiko
+GET /teams/555
+USE eager loading detected
+  Assign => [:user]
+  Add to your query: .includes([:user])
+Call stack
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:46:in `block in _app_views_teams_show_html_erb__272687425714802777_70208119549840'
+  /Users/kondokeiko/Desktop/workspace/diveintopost_kondo/app/views/teams/show.html.erb:43:in `_app_views_teams_show_html_erb__272687425714802777_70208119549840'
+
